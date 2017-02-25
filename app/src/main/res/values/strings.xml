@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleDataBaseEx</string>
+
+    <string-array name="database_functions">
+        <item>Save</item>
+        <item>Display</item>
+        <item>Update</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>
